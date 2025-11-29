@@ -27,4 +27,4 @@ Bu proje, C dilinde yazılmış basit bir karakter tabanlı hayatta kalma simül
 ## Kurulum ve Çalıştırma
 1. Bu repository’yi klonlayın veya ZIP olarak indirin:
    ```bash
-   git clone https://github.com/uzeyircavusoglu43-create/HayattaKalmaSimulatoru/tree/main
+   git clone https://github.com/uzeyircavusoglu43-create/HayattaKalmaSimulatoru
